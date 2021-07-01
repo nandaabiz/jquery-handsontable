@@ -1,5 +1,5 @@
 ## READ FIRST
-**This repo intendedly left as is for internal documentation purposes.* If you need the latest version, you may go to [Official site handsontable.com](https://handsontable.com/)
+**This repo intendedly left as is for internal documentation purposes.** If you need the latest version, you may go to [Official site handsontable.com](https://handsontable.com/)
 
 # Handsontable [![Build Status](https://travis-ci.org/warpech/jquery-handsontable.png?branch=master)](https://travis-ci.org/warpech/jquery-handsontable)
 
