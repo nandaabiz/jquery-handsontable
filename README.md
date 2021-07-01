@@ -1,3 +1,6 @@
+## READ FIRST
+**This repo intendedly left as is for internal documentation purposes.* If you need the latest version, you may go to [Official site handsontable.com](https://handsontable.com/)
+
 # Handsontable [![Build Status](https://travis-ci.org/warpech/jquery-handsontable.png?branch=master)](https://travis-ci.org/warpech/jquery-handsontable)
 
 Handsontable is a minimalistic approach to Excel-like table editor in HTML & jQuery. Requires jQuery 1.9+ or 2.0+ (may work with 1.7+ too, but there are known issues with [IE10](https://github.com/warpech/jquery-handsontable/issues/410)).
